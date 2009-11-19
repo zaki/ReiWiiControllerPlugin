@@ -1,0 +1,11 @@
+<Addin id="OpenViewer.Plugins.WiiControllerPlugin" version="0.1">
+    <Runtime>
+        <Import assembly="WiiControllerPlugin.dll"/>
+    </Runtime>
+    <Dependencies>
+        <Addin id="OpenViewer" version="0.5" />
+    </Dependencies>
+    <Extension path = "/OpenViewer/Managers">
+        <Plugin id="WiiControllerPlugin" type="OpenViewer.Plugins.WiiControllerPlugin" />
+    </Extension>
+</Addin>

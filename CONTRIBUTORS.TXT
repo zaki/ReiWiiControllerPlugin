@@ -1,0 +1,5 @@
+Contributors to 3Di Viewer "Rei" include the following organizations
+and/or individuals:
+
+* Dezso Zoltan (dezso.zoltan@gmail.com)
+
